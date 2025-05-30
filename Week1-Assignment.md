@@ -45,11 +45,11 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 - Use the `explain()` method to demonstrate the performance improvement with your indexes
 
 ## 🧪 Expected Outcome
-- A functioning MongoDB database with properly structured data
+- h performance analysisA functioning MongoDB database with properly structured data
 - A set of MongoDB queries that demonstrate your understanding of CRUD operations
 - Advanced queries showing filtering, projection, and sorting capabilities
 - Aggregation pipelines that transform and analyze the data
-- Properly implemented indexes with performance analysis
+- Properly implemented indexes with performance analysis 
 
 ## 🛠️ Setup
 1. Install MongoDB Community Edition or set up a MongoDB Atlas account
